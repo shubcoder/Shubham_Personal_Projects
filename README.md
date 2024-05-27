@@ -1,1 +1,1 @@
-Welcome to my personal projects portfolio, here I have showcased what I've worked on in Python in my own time. I'm passionate about data science and eager to land a role enabling me to apply and strengthen my knowledge and skills.
+Welcome to my personal projects portfolio, here I will showcase what I've worked on in Python in my own time. I'm passionate about data science and eager to land a role enabling me to apply and strengthen my knowledge and skills.
