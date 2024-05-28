@@ -16,3 +16,7 @@ Project 2 (Car price prediction):
 
 Project 3 (Diabetes prediction):
   This project involved using a diabetes dataset from Kaggle to fit a logistic regression and random forest model, enabling to make a prediction for if a patient is diabetic.
+
+  diabetes2.csv - dataset used 
+
+  diabetes_prediction.ipynb - notebook
