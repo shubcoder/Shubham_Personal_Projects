@@ -7,9 +7,12 @@ Project 1 (Population Pyramid) :
   
   population_charts.ipynb - notebook
 
-Project 2(Multilinear Regression):
+Project 2 (Car price prediction):
   This project involved using second hand car data from Kaggle to fit a multi linear regression model, enabling to make predictions for the car price given an entered set of parameters.
   
   cars.csv - dataset used 
   
   cars_multiple_regression.ipynb - notebook
+
+Project 3 (Diabetes prediction):
+  This project involved using a diabetes dataset from Kaggle to fit a logistic regression and random forest model, enabling to make a prediction for if a patient is diabetic.
