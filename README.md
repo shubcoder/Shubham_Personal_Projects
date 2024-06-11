@@ -3,7 +3,7 @@ Welcome to my personal projects portfolio, here I will showcase what I've worked
 Project 1 (Population Pyramid) :
   This project involved making use of publicly available data from the 2021 census to create a population pyramid showing the distribution of male and female age groups in England and Wales. I also attempted a curve fit for the historical population trend of England and Wales, to enable making predictions for the population in the future.  
   
-  census2021firstresultsenglandwales1.xlsx - dataset used 
+  census2021firstresultsenglandwales1.xlsx, pop.xlsx - datasets used (age demographic and overall population figures) 
   
   population_charts.ipynb - notebook
 
