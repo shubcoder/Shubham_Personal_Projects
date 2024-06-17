@@ -1,16 +1,16 @@
 Welcome to my personal projects portfolio, here I will showcase what I've worked on in Python in my own time. I'm passionate about data science and eager to apply and strengthen these skills further. 
 
-Project 1 (2022 FIFA World Cup Qatar web scraping):
+PROJECT 1 (2022 FIFA World Cup Qatar web scraping):
   This project involved scraping data from FBref for the matches in the 2022 FIFA World Cup to carry out analysis with the aid of a number of charts. 
 
-  WCmatches and WCrankings - datasets used 
+  WCmatches, WCrankings - datasets used 
 
   WC_web_scraping.ipynb - web scaping notebook 
   WC_charts.ipynb - data analysis notebook
 
 
 
-Project 2 (Population Pyramid) :
+PROJECT 2 (Population Pyramid) :
   This project involved making use of publicly available data from the 2021 census to create a population pyramid showing the distribution of male and female age groups in England and Wales. I also attempted a curve fit for the historical population trend of England and Wales, to enable making predictions for the population in the future.  
   
   census2021firstresultsenglandwales1.xlsx, pop.xlsx - datasets used (age demographic and overall population figures) 
@@ -19,7 +19,7 @@ Project 2 (Population Pyramid) :
 
 
 
-Project 3 (Car price prediction):
+PROJECT 3 (Car price prediction):
   This project involved using second hand car data from Kaggle to fit a multi linear regression model, enabling to make predictions for the car price given an entered set of parameters.
   
   cars.csv - dataset used 
@@ -28,7 +28,7 @@ Project 3 (Car price prediction):
 
 
 
-Project 4 (Diabetes prediction):
+PROJECT 4 (Diabetes prediction):
   This project involved using a diabetes dataset from Kaggle to fit a logistic regression and random forest model, enabling to make a prediction for if a patient is diabetic.
 
   diabetes2.csv - dataset used 
