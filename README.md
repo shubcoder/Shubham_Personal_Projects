@@ -3,6 +3,11 @@ Welcome to my personal projects portfolio, here I will showcase what I've worked
 Project 1 (2022 FIFA World Cup Qatar web scraping):
   This project involved scraping data from FBref for the matches in the 2022 FIFA World Cup to carry out analysis with the aid of a number of charts. 
 
+  WCmatches and WCrankings - datasets used 
+
+  WC_web_scraping.ipynb - web scaping notebook 
+  WC_charts.ipynb - data analysis notebook
+
 Project 2 (Population Pyramid) :
   This project involved making use of publicly available data from the 2021 census to create a population pyramid showing the distribution of male and female age groups in England and Wales. I also attempted a curve fit for the historical population trend of England and Wales, to enable making predictions for the population in the future.  
   
