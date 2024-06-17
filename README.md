@@ -1,7 +1,7 @@
 Welcome to my personal projects portfolio, here I will showcase what I've worked on in Python in my own time. I'm passionate about data science and eager to apply and strengthen these skills further. 
 
 PROJECT 1 (2022 FIFA World Cup Qatar web scraping):
-  This project involved scraping data from FBref for the matches in the 2022 FIFA World Cup to carry out analysis with the aid of a number of charts. 
+  This project involved scraping data from FBref for matches in the 2022 FIFA World Cup to carry out analysis with the aid of a number of charts. 
 
   WCmatches, WCrankings - datasets used 
 
