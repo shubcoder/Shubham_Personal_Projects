@@ -3,7 +3,7 @@ Welcome to my personal projects portfolio, here I will showcase what I've worked
 ---
 
 # PROJECT 1 (2022 FIFA World Cup Qatar web scraping)
-  This project involved scraping data from FBref for matches in the 2022 FIFA World Cup to carry out analysis with the aid of a number of charts. 
+  This project involved scraping data from FBref for matches in the 2022 FIFA World Cup to carry out analysis with the aid of a number of charts. The following web links were scraped: https://fbref.com/en/comps/1/World-Cup-Stats, https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
 
   WCmatches, WCrankings - datasets used 
 
