@@ -6,7 +6,7 @@ PROJECT 1 (2022 FIFA World Cup Qatar web scraping):
   WCmatches, WCrankings - datasets used 
 
   WC_web_scraping.ipynb - web scaping notebook 
-  WC_charts.ipynb - data analysis notebook. To view the plotly visualisations, please enter the link of the notebook      (https://github.com/shubcoder/Shubham_Personal_Projects/blob/main/Project%201/WC_charts.ipynb) into nbviewer (https://nbviewer.org)
+  WC_charts.ipynb - data analysis notebook. To view the plotly visualisations, please enter the link of the notebook      (https://github.com/shubcoder/Shubham_Personal_Projects/blob/main/Project%201/WC_charts.ipynb) into nbviewer (https://nbviewer.org).
 
 
 
