@@ -37,3 +37,10 @@ Welcome to my personal projects portfolio, here I will showcase what I've worked
   diabetes2.csv - dataset used 
 
   diabetes_prediction.ipynb - notebook
+
+---
+
+# PROJECT 5 (Holiday file sorting)
+  One of my other interests is video editing, and when I go on holidays with my friends, I like to create "vlogs" with our collective recorded footage. A dillema I face when creating these vlogs is that sorting through a large quantity of footage to figure out which day of the holiday each video corresponded to can require a significant investment of time, and thus I had the idea to explore automating this process with Python. I created a script which loops through all the footage, accesses the metadata, and uses that data to order the videos by the recording date.
+
+  File_Sorting.ipynb - notebook 
