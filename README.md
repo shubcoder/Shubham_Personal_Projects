@@ -2,7 +2,7 @@ Welcome to my personal projects portfolio, here I will showcase what I've worked
 
 ---
 # Challenges
-  This is a collection of various coding challenges I came across online, ranging in difficulty.
+  This is a collection of various coding challenges I came across online, ranging in difficulty. Please read each notebook for details of each challenge. 
 
 ---
 
