@@ -1,6 +1,10 @@
 Welcome to my personal projects portfolio, here I will showcase what I've worked on in Python in my own time. I'm passionate about programming and data analysis, and eager to apply and strengthen these skills further. 
 
 ---
+# Challenges
+  This is a collection of various coding challenges I came across online, ranging in difficulty.
+
+---
 
 # PROJECT 1 (2022 FIFA World Cup Qatar web scraping)
   This project involved scraping data from FBref for matches in the 2022 FIFA World Cup to carry out analysis with the aid of a number of charts. The following web links were scraped: https://fbref.com/en/comps/1/World-Cup-Stats, https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures.
@@ -44,3 +48,5 @@ Welcome to my personal projects portfolio, here I will showcase what I've worked
   One of my other interests is video editing, and when I go on holidays with my friends, I like to create "vlogs" with our collective recorded footage. A dillema I face when creating these vlogs is that sorting through a large quantity of footage to figure out which day of the holiday each video corresponded to can require a significant investment of time, and thus I had the idea to explore automating this process with Python. I created a script which accesses the metadata of each video, and uses that data to order the videos by the recording date.
 
   File_Sorting.ipynb - notebook 
+
+  ---
