@@ -2,7 +2,9 @@ Welcome to my personal projects portfolio, here I will showcase what I've worked
 
 ---
 # Challenges
-  This is a collection of various coding challenges I came across online, ranging in difficulty. Please read each notebook for details of each challenge. 
+  This is a collection of various coding challenges I came across online, ranging in difficulty. Please read each notebook for further details of each challenge. 
+
+  Premier league goals scored - calculate the number of goals scored over the season for any team using the fixure data of the 2014/2015 season 
 
 ---
 
