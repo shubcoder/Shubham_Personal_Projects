@@ -15,7 +15,7 @@ Welcome to my personal projects portfolio, here I will showcase what I've worked
 
   WC_web_scraping.ipynb - web scaping notebook 
   
-  WC_charts.ipynb - data analysis notebook (use the link file:///Users/shubhamjoshi/Desktop/WC_Charts.html to view all plotly visualisations)
+  WC_charts.ipynb - data analysis notebook 
   
 ---
 
