@@ -15,7 +15,7 @@ Welcome to my personal projects portfolio, here I will showcase what I've worked
 
   WC_web_scraping.ipynb - web scaping notebook 
   
-  WC_charts.html - data analysis notebook (this file is in html as the default notebook format does not support plotly visualisations)
+  WC_charts.html - data analysis notebook (please download this file to view the plotly visualisations)
   
 ---
 
